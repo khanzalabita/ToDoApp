@@ -1,5 +1,5 @@
 # ToDoApp
-Aplikasi To-Do List berbasis C# dan Windows Forms (WinForms) dirancang untuk mengelola dan mencatat daftar tugas dengan antarmuka yang mudah digunakan.
+Aplikasi To Do List merupakan aplikasi sederhana yang digunakan untuk mencatat, mengatur, dan memantau daftar tugas yang harus diselesaikan oleh pengguna. Melalui aplikasi ini, pengguna dapat menambahkan tugas baru, mengedit informasi tugas yang sudah ada, serta menghapus tugas yang sudah tidak diperlukan. Setiap data tugas terdiri dari nama tugas, deskripsi, dan tenggat waktu (deadline). Aplikasi ini dibangun menggunakan bahasa pemrograman C# dengan antarmuka Windows Forms dan terhubung ke database MySQL untuk menyimpan data tugas secara permanen. Penggunaan Event Driven Programming (EDP) memungkinkan aplikasi merespons setiap aksi pengguna secara real-time, menjadikan aplikasi lebih interaktif, mudah digunakan, dan efisien untuk membantu manajemen tugas sehari-hari.
 
 ## Fitur Utama  
 1. menambahkan daftar tugas beserta deadline serta deskripsi tugas
