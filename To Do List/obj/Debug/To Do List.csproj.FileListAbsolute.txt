@@ -48,3 +48,53 @@ C:\Users\ASUS\Documents\Tugas Pemrograman Visual Semester 6\To Do List\To Do Lis
 C:\Users\ASUS\Documents\Tugas Pemrograman Visual Semester 6\To Do List\To Do List\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\ASUS\Documents\Tugas Pemrograman Visual Semester 6\To Do List\To Do List\obj\Debug\To Do List.csproj.Up2Date
 C:\Users\ASUS\Documents\Tugas Pemrograman Visual Semester 6\To Do List\To Do List\obj\Debug\To_Do_List.Form2.resources
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\To Do List.exe.config
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\To Do List.exe
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\To Do List.pdb
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\Google.Protobuf.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\MySqlConnector.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.IO.Pipelines.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\ZstdSharp.dll
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\Google.Protobuf.pdb
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\Google.Protobuf.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\MySqlConnector.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.IO.Pipelines.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Downloads\To Do List\To Do List\obj\Debug\To Do List.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\To Do List\To Do List\obj\Debug\To_Do_List.Properties.Resources.resources
+C:\Users\ASUS\Downloads\To Do List\To Do List\obj\Debug\To Do List.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\To Do List\To Do List\obj\Debug\To Do List.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\To Do List\To Do List\obj\Debug\To Do List.csproj.Up2Date
+C:\Users\ASUS\Downloads\To Do List\To Do List\obj\Debug\To Do List.exe
+C:\Users\ASUS\Downloads\To Do List\To Do List\obj\Debug\To Do List.pdb
+C:\Users\ASUS\Downloads\To Do List\To Do List\obj\Debug\To_Do_List.Views.Form1.resources
+C:\Users\ASUS\Downloads\To Do List\To Do List\obj\Debug\To_Do_List.Views.Form2.resources

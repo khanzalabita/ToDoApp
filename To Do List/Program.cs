@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace To_Do_List
+namespace To_Do_List.Views
 {
     internal static class Program
     {
